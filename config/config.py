@@ -1,7 +1,7 @@
 seed = 42
 
 # batch size for OpenAI's Whisper
-whisper_model = "base.en"
+whisper_model = "small.en"
 batch_size = 16
 
 
