@@ -3,3 +3,6 @@ data/
 output/
 **__pycache__**
 test.ipynb
+.DS_Store
+*/.DS_Store
+venv/
